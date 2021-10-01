@@ -7,5 +7,5 @@
       "skipLibCheck": true,
       "allowJs": true
   },
-  "include":["source/**/*.ts"]
+  "include":["src/**/*.ts"]
 }

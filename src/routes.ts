@@ -4,6 +4,6 @@ import { VersionController } from "./Controllers/VersionController"
 const router = Router()
 const versionController = new VersionController()
 
-router.get("/version", versionController.get_version)
+router.get("/", versionController.get_version)
 
 export {router}
