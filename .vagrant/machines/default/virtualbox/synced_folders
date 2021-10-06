@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"D:/Workspaces/UFSCar/Redes/rest-api/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Workspaces/UFSCar/Redes/rest-api","disabled":false,"__vagrantfile":true}}}
